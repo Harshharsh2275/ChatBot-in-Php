@@ -1,0 +1,14 @@
+{
+    "name":{
+    "pattern":"/What is your name/i",
+    "reply":"My name is Great Harsh"
+    },
+    "relationship":{
+        "pattern":"/I love you/i",
+        "reply":"No ! My highness You are lying"
+    },
+    "Birth":{
+        "pattern":"/What is your biythday /i",
+        "reply":"No ! My highness You are lying"
+    }
+}
